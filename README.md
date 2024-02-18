@@ -1,5 +1,5 @@
-ORDER IT 
-A FOOD ORDERING WEBSITE
+ # ORDER IT 
+ # A FOOD ORDERING WEBSITE
 
 <img width="948" alt="home" src="https://github.com/manojkumarnarsingoju/OrderIt/assets/115079495/7d9e62ec-8090-474b-b433-1a18c56229ff">
 <img width="930" alt="login" src="https://github.com/manojkumarnarsingoju/OrderIt/assets/115079495/cbe9e70f-6002-4c6c-bd3c-cf066caa0d83">
